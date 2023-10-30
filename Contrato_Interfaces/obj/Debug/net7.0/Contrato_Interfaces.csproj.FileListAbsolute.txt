@@ -1,0 +1,14 @@
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\bin\Debug\net7.0\Contrato_Interfaces.exe
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\bin\Debug\net7.0\Contrato_Interfaces.deps.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\bin\Debug\net7.0\Contrato_Interfaces.runtimeconfig.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\bin\Debug\net7.0\Contrato_Interfaces.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\bin\Debug\net7.0\Contrato_Interfaces.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.AssemblyInfoInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.AssemblyInfo.cs
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\refint\Contrato_Interfaces.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\Contrato_Interfaces.genruntimeconfig.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Contrato_Interfaces\Contrato_Interfaces\obj\Debug\net7.0\ref\Contrato_Interfaces.dll
